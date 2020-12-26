@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BLEConexion.Views.Connect">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="FillAndExpand"
+                 VerticalOptions="FillAndExpand">
+
+            <Button Text="Connect to  device" BackgroundColor="Black" TextColor="White" HeightRequest="250"  Command="{Binding cmdConnect}"/>
+            <Button Text="Disconnect" BackgroundColor="Black" TextColor="White" HeightRequest="250"  Command="{Binding cmdDisconnect}"/>
+            <ActivityIndicator   IsRunning="{Binding Isbusy}" VerticalOptions="Center" HorizontalOptions="Center" Color="Blue"  ></ActivityIndicator>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

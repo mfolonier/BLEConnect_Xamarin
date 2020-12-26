@@ -1,0 +1,6 @@
+C:\Xamarin\Demos\Code for git\BLEConexion\BLEConexion\bin\Debug\netstandard2.0\BLEConexion.deps.json
+C:\Xamarin\Demos\Code for git\BLEConexion\BLEConexion\bin\Debug\netstandard2.0\BLEConexion.dll
+C:\Xamarin\Demos\Code for git\BLEConexion\BLEConexion\obj\Debug\netstandard2.0\BLEConexion.csprojAssemblyReference.cache
+C:\Xamarin\Demos\Code for git\BLEConexion\BLEConexion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Demos\Code for git\BLEConexion\BLEConexion\obj\Debug\netstandard2.0\BLEConexion.AssemblyInfoInputs.cache
+C:\Xamarin\Demos\Code for git\BLEConexion\BLEConexion\obj\Debug\netstandard2.0\BLEConexion.AssemblyInfo.cs
